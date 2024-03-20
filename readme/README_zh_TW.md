@@ -8,13 +8,13 @@
 简单Python控制台输入输出工具封装.
 
 ## 安装
-```
+```bash
 pip install xy_console
 ```
 
 ## 开始
 
-```
+```python
 from xy_console.utils import *
 # 普通打印
 printt("hello world")

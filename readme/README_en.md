@@ -9,13 +9,13 @@ Easy Python console tool wrappers
 
 ## Install
 
-```
+```bash
 pip install xy_console
 ```
 
 ## Start
 
-```
+```python
 from xy_console.utils import *
 # 普通打印
 printt("hello world")
