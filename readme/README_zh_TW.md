@@ -7,6 +7,8 @@
 # 说明
 简单Python控制台输入输出工具封装.
 
+<a href="https://github.com/ShipOfOcean/xy_console.git" target="_blank">Github位址</a>
+
 ## 安装
 ```bash
 pip install xy_console
